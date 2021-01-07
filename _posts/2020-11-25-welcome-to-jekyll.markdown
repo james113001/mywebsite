@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 ---
-I study biomedical engineering at the University of Missouri-Columbia. My emphasis is in bioinformatics, and coding for data analysis brings me pleasure, though coding this website has also been a fun challenge. 
 
 Jekyll requires blog post files to be named according to the following format:
 
