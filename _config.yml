@@ -21,7 +21,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
+subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "James J Kim"
 description              : "A minimalist website dedicated to my life and career."
 url                      : "  " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,8 +98,8 @@ analytics:
 author:
   name             : "James J Kim Jr"
   avatar           : "/assets/images/profilepic.jpg" # path of avatar image, e.g. "/assets/images/profilepic.jpg"
-  bio              : "my life and career"
-  location         : "Columbia, MO"
+  bio              : "My life and career"
+  location         : "Kansas City, MO"
   email            :
   links:
     - label: "LinkedIn"
@@ -112,7 +112,7 @@ author:
 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jjkim@mail.missouri.edu"
+      url: "mailto:james113001@yahoo.com"
 
 # Site Footer
 footer:

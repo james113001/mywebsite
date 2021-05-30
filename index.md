@@ -2,14 +2,18 @@
 layout: single
 author_profile: true
 ---
+<link rel="stylesheet" type="text/css" media="all" href="custom.css"/>
+<script src="/assets/js/TEDx.js"></script>
 
 # About Me
 
-I study biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/). My emphasis is in bioinformatics and pre-med, and coding for data analysis brings me pleasure, though this website was a fun challenge.
+I recently graduated with a BS in biomedical engineering at the [University of Missouri-Columbia](https://missouri.edu/). My emphasis is in bioinformatics and pre-med, and coding for data analysis brings me pleasure, though coding this website was a fun challenge.
 
 The past two summers, I conducted research in two labs: Georgia Institute of Technology/Emory University School of Medicine and University of Missouri. My interests lie in leveraging data analytics for public health. 
 
 With the growing prominence of informatics, I will use population health research to focus on the health of the nation’s low to middle income individuals, who suffer the most from healthcare access disparities. Furthermore, as an aspiring physician, I can also integrate my undergraduate education in bioinformatics with a future medical education to bridge the gap between the two fields. 
+
+Outside of academia, I enjoy hip-hop dancing which I do through a team at Mizzou, as well as TikTok (@bonnetedasian) where I have over 38k followers. Some of my most popular videos are related to medicine, from MCAT mnemonics to medical education reform. I also enjoy playing tennis, reading, and sketching. 
 
 # Projects 
 Clinician Burnout Project:  
