@@ -13,7 +13,7 @@ The past two summers, I conducted research in two labs: Georgia Institute of Tec
 
 With the growing prominence of informatics, I will use population health research to focus on the health of the nation’s low to middle income individuals, who suffer the most from healthcare access disparities. Furthermore, as an aspiring physician, I can also integrate my undergraduate education in bioinformatics with a future medical education to bridge the gap between the two fields. 
 
-Outside of academia, I enjoy hip-hop dancing which I do through a team at Mizzou, as well as TikTok (@bonnetedasian) where I have over 38k followers. Some of my most popular videos are related to medicine, from MCAT mnemonics to medical education reform. I also enjoy playing tennis, reading, and sketching. 
+Outside of academia, I enjoy hip-hop dancing which I do through a team at Mizzou, as well as TikTok (@bonnetedasian) where I have over 47k followers. Some of my most popular videos are related to vlogging about my experiences in London as an American, medicine, from MCAT mnemonics to medical education reform. I also enjoy playing tennis, reading, and sketching. 
 
 # Projects 
 Clinician Burnout Project:  
